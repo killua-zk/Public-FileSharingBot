@@ -1,0 +1,4 @@
+telethon
+redis
+python-decouple
+python-dotenv
